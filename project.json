@@ -1,0 +1,8 @@
+{
+  "module": false,
+  "type": "ts",
+  "plugins": [
+    "db",
+    "http"
+  ]
+}
